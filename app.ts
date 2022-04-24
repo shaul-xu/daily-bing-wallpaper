@@ -63,7 +63,7 @@ const saveFile = async () => {
   fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
   fs.writeFileSync('README.md', getReadmeContent(image.url, image.copyright))
 
-  console.log("Get Tody's Wallpaper Successful!")
+  console.log("Get Tody's Wallpaper Successfully!")
 }
 
 ;(async () => {
