@@ -1,0 +1,25 @@
+name: Get Bing Daily Wallpaper
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 17 * * *'
+
+jobs:
+  GetBingDailyWallpaper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - run: yarn install && yarn start
+      - run: |
+          git config --local user.email "302763630@qq.com"
+          git config --local user.name "shaul xu"
+          git add .
+          git commit -m "update"
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'main'

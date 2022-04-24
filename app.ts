@@ -13,6 +13,12 @@ type Response = {
   copyright_link: string
 }
 
+const getReadmeContent = (
+  imgUrl: string,
+  copyright: string
+) => `## Bing Wallpaper
+![](${imgUrl})Today: [${copyright}](${imgUrl})`
+
 const fetchData = async () => {
   const { data } = await axios.get<Response>(requestUrl)
   return data
@@ -40,10 +46,14 @@ const saveFile = async () => {
     url: image.url,
     responseType: 'stream',
   })
+
   const imgWs = fs.createWriteStream(imageFilePath)
-  const jsonWs = fs.createWriteStream(metaFilePath)
   stream.pipe(imgWs)
-  jsonWs.write(JSON.stringify(image, null, 4))
+
+  fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
+  fs.writeFileSync('README.md', getReadmeContent(image.url, image.copyright))
+
+  console.log("Get Tody's Wallpaper Successful!")
 }
 
 ;(async () => {

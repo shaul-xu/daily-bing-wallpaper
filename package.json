@@ -1,10 +1,10 @@
 {
-  "name": "bing-wallpaper-get",
+  "name": "bing-daily-wallpaper",
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon build/app.ts",
+    "dev": "ts-node app.ts",
     "start": "node app.js",
     "postinstall": "tsc -p tsconfig.json"
   },
