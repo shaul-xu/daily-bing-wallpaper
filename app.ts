@@ -7,11 +7,13 @@ const requestUrl =
   'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN'
 
 type Response = {
-  startdate: string
-  enddate: string
-  url: string
-  copyright: string
-  copyright_link: string
+  images: {
+    startdate: string
+    enddate: string
+    url: string
+    copyright: string
+    copyright_link: string
+  }[]
 }
 
 const getReadmeContent = (
@@ -22,7 +24,7 @@ const getReadmeContent = (
 
 const fetchData = async () => {
   try {
-    const { data } = await axios.get<{ images: Response[] }>(requestUrl)
+    const { data } = await axios.get<Response>(requestUrl)
     const raw = data.images[0]
     return {
       ...raw,
