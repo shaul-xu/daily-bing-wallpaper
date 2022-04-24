@@ -2,12 +2,13 @@ import axios from 'axios'
 import path from 'path'
 import fs, { ReadStream } from 'fs'
 
+const bingUrl = 'https://www.bing.com'
 const requestUrl =
-  'https://bing.biturl.top/?resolution=3840&format=json&index=0&mkt=zh-CN'
+  'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN'
 
 type Response = {
-  start_date: string
-  end_date: string
+  startdate: string
+  enddate: string
   url: string
   copyright: string
   copyright_link: string
@@ -21,13 +22,12 @@ const getReadmeContent = (
 
 const fetchData = async () => {
   try {
-    const { data } = await axios.get<Response>(requestUrl, {
-      headers: {
-        'User-Agent':
-          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36',
-      },
-    })
-    return data
+    const { data } = await axios.get<{ images: Response[] }>(requestUrl)
+    const raw = data.images[0]
+    return {
+      ...raw,
+      url: bingUrl + raw.url,
+    }
   } catch (error) {
     console.log(error)
     process.exit(1)
@@ -42,7 +42,7 @@ const saveFile = async () => {
     fs.mkdirSync(archiveDirPath)
   }
 
-  const subDirPath = path.resolve(archiveDirPath, image.start_date)
+  const subDirPath = path.resolve(archiveDirPath, image.startdate)
   if (!fs.existsSync(subDirPath)) {
     fs.mkdirSync(subDirPath)
   }
