@@ -25,6 +25,7 @@ const fetchData = async () => {
     return data
   } catch (error) {
     console.log(error)
+    process.exit(1)
   }
 }
 
