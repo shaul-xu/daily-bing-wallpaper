@@ -20,8 +20,12 @@ const getReadmeContent = (
 ![](${imgUrl})Today: [${copyright}](${imgUrl})`
 
 const fetchData = async () => {
-  const { data } = await axios.get<Response>(requestUrl)
-  return data
+  try {
+    const { data } = await axios.get<Response>(requestUrl)
+    return data
+  } catch (error) {
+    console.log(error)
+  }
 }
 
 const saveFile = async () => {
