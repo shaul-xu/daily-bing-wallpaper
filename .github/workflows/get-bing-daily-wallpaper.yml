@@ -18,7 +18,7 @@ jobs:
           git config --local user.email "302763630@qq.com"
           git config --local user.name "shaul xu"
           git add .
-          git commit -m "update"
+          git commit -m "update" -a
       - uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
