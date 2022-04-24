@@ -20,7 +20,8 @@ const getReadmeContent = (
   imgUrl: string,
   copyright: string
 ) => `## Bing Wallpaper
-![](${imgUrl})Today: [${copyright}](${imgUrl})`
+![](${imgUrl})Today: [${copyright}](${imgUrl})
+`
 
 const fetchData = async () => {
   try {
