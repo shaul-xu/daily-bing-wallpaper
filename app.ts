@@ -33,6 +33,7 @@ const genReadmeContent = (imgUrl: string, copyright: string, count = 10) => {
       '\n'
     )
   }, '')
+
   return `## Bing Wallpaper
   ![](${imgUrl})Today: [${copyright}](${imgUrl})
 
@@ -80,12 +81,12 @@ const saveFile = async () => {
     responseType: 'stream',
   })
 
-  fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
-  fs.writeFileSync('README.md', genReadmeContent(image.url, image.copyright))
-
   if (fs.existsSync(metaFilePath)) {
     return
   }
+
+  fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
+  fs.writeFileSync('README.md', genReadmeContent(image.url, image.copyright))
 
   const imgWs = fs.createWriteStream(imageFilePath)
   stream.pipe(imgWs)
