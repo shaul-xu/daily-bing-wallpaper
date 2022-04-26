@@ -1,6 +1,7 @@
 import axios from 'axios'
 import path from 'path'
 import fs, { ReadStream } from 'fs'
+import { glob } from 'glob'
 
 const bingUrl = 'https://www.bing.com'
 const requestUrl =
@@ -16,12 +17,30 @@ type Response = {
   }[]
 }
 
-const getReadmeContent = (
-  imgUrl: string,
-  copyright: string
-) => `## Bing Wallpaper
-![](${imgUrl})Today: [${copyright}](${imgUrl})
-`
+const genReadmeContent = (imgUrl: string, copyright: string, count = 10) => {
+  const list = glob
+    .sync('archives/*/meta.json', { absolute: true })
+    .reverse()
+    .slice(1, count)
+  const tableData = list.map<Response['images'][number]>((item) => {
+    const raw = fs.readFileSync(item).toString()
+    return JSON.parse(raw)
+  })
+  const tableContent = tableData.reduce((acc, cur) => {
+    return (
+      acc +
+      `| ${cur.enddate} | ![](${cur.url}) | [${cur.copyright}](${cur.url}) |` +
+      '\n'
+    )
+  }, '')
+  return `## Bing Wallpaper
+  ![](${imgUrl})Today: [${copyright}](${imgUrl})
+
+  | Date | Wallpaper | Copyright |
+  | ---- | ----- | ------ |
+  ${tableContent}
+  `
+}
 
 const fetchData = async () => {
   try {
@@ -45,7 +64,7 @@ const saveFile = async () => {
     fs.mkdirSync(archiveDirPath)
   }
 
-  const subDirPath = path.resolve(archiveDirPath, image.startdate)
+  const subDirPath = path.resolve(archiveDirPath, image.enddate)
   if (!fs.existsSync(subDirPath)) {
     fs.mkdirSync(subDirPath)
   }
@@ -55,16 +74,21 @@ const saveFile = async () => {
     `${image.copyright.replace(/\//g, '\u2215')}.jpg`
   )
   const metaFilePath = path.resolve(subDirPath, 'meta.json')
+
   const { data: stream } = await axios.request<ReadStream>({
     url: image.url,
     responseType: 'stream',
   })
 
+  fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
+  fs.writeFileSync('README.md', genReadmeContent(image.url, image.copyright))
+
+  if (fs.existsSync(metaFilePath)) {
+    return
+  }
+
   const imgWs = fs.createWriteStream(imageFilePath)
   stream.pipe(imgWs)
-
-  fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
-  fs.writeFileSync('README.md', getReadmeContent(image.url, image.copyright))
 
   console.log("Get Tody's Wallpaper Successfully!")
 }

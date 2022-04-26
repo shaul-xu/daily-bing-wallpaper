@@ -13,7 +13,9 @@
     "singleQuote": true
   },
   "dependencies": {
-    "axios": "^0.26.1"
+    "@types/glob": "^7.2.0",
+    "axios": "^0.26.1",
+    "glob": "^8.0.1"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
