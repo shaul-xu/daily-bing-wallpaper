@@ -82,7 +82,8 @@ const saveFile = async () => {
   })
 
   if (fs.existsSync(metaFilePath)) {
-    return
+    console.log("Tody's wallpaper has been acquired!")
+    process.exit(0)
   }
 
   fs.writeFileSync(metaFilePath, JSON.stringify(image, null, 4))
@@ -91,7 +92,7 @@ const saveFile = async () => {
   const imgWs = fs.createWriteStream(imageFilePath)
   stream.pipe(imgWs)
 
-  console.log("Get Tody's Wallpaper Successfully!")
+  console.log("Get tody's wallpaper successfully!")
 }
 
 ;(async () => {
