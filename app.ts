@@ -21,7 +21,7 @@ const genReadmeContent = (imgUrl: string, copyright: string, count = 10) => {
   const list = glob
     .sync('archives/*/meta.json', { absolute: true })
     .reverse()
-    .slice(1, count)
+    .slice(1, count + 1)
   const tableData = list.map<Response['images'][number]>((item) => {
     const raw = fs.readFileSync(item).toString()
     return JSON.parse(raw)
