@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [金德代克风车群，荷兰 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220512 | ![](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220513 | ![](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220512 | ![](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220511 | ![](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣托里尼岛上的伊亚镇，希腊 (© Zebra-Studio/Shutterstock)](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220510 | ![](https://www.bing.com/th?id=OHR.GiffordPinchot_ZH-CN2050686223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [春天的豹溪瀑布，吉福德·平肖国家森林，美国华盛顿州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GiffordPinchot_ZH-CN2050686223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220509 | ![](https://www.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从观景台俯瞰格雷梅，格雷梅国家公园，土耳其卡帕多西亚省 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
@@ -12,6 +13,5 @@
 | 20220506 | ![](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡 (© JayKay57/Getty Images)](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220505 | ![](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区 (© Brian Overcast/Alamy)](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220504 | ![](https://www.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [托菲诺的麦肯齐海滩，加拿大不列颠哥伦比亚省 (© Robert Postma/Plainpicture/Design Pics)](https://www.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
-| 20220503 | ![](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [鸳鸯妈妈和小鸳鸯们，韩国 (© VDCM image/Getty Images)](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 
   
