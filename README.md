@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [贝尔尼纳山脉和血月，瑞士 (© Bernd Zoller/Shutterstock)](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PawneeOwls_ZH-CN3586129981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [花丛中的小穴鸮们，美国科罗拉多州 (© Roberta Olenick/Alamy)](https://www.bing.com/th?id=OHR.PawneeOwls_ZH-CN3586129981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220514 | ![](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [金德代克风车群，荷兰 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220515 | ![](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [贝尔尼纳山脉和血月，瑞士 (© Bernd Zoller/Shutterstock)](https://www.bing.com/th?id=OHR.BerninaBloodMoon_ZH-CN3349260043_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220514 | ![](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [金德代克风车群，荷兰 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220513 | ![](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_ZH-CN2960157829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220512 | ![](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)](https://www.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220511 | ![](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣托里尼岛上的伊亚镇，希腊 (© Zebra-Studio/Shutterstock)](https://www.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
@@ -12,6 +13,5 @@
 | 20220508 | ![](https://www.bing.com/th?id=OHR.MomJoey_ZH-CN1642006600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [考拉熊妈妈和8个月大的宝宝，澳大利亚昆士兰 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.MomJoey_ZH-CN1642006600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220507 | ![](https://www.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [拉西拉ESO天文台上的天文望远镜设备，智利 (© Alberto Ghizzi Panizza/Getty Images)](https://www.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220506 | ![](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡 (© JayKay57/Getty Images)](https://www.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
-| 20220505 | ![](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区 (© Brian Overcast/Alamy)](https://www.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 
   
