@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MarinHeadlands_ZH-CN9876016714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [金门大桥和马林岬角，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.MarinHeadlands_ZH-CN9876016714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [波奴鲁鲁国家公园里的邦格尔邦格尔山脉，澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220526 | ![](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蒙特维德云雾森林中的吊桥，哥斯达黎加 (© Dmitriy Burlakov/Getty Images)](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220527 | ![](https://www.bing.com/th?id=OHR.MarinHeadlands_ZH-CN9876016714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [金门大桥和马林岬角，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.MarinHeadlands_ZH-CN9876016714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220526 | ![](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蒙特维德云雾森林中的吊桥，哥斯达黎加 (© Dmitriy Burlakov/Getty Images)](https://www.bing.com/th?id=OHR.Monteverde_ZH-CN9598634812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220525 | ![](https://www.bing.com/th?id=OHR.Alhambra_ZH-CN9040625762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格拉纳达的阿尔罕布拉，安达卢西亚省，西班牙 (© Armand Tamboly/Getty Images)](https://www.bing.com/th?id=OHR.Alhambra_ZH-CN9040625762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220524 | ![](https://www.bing.com/th?id=OHR.KornatiNP_ZH-CN8829346235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科纳提国家公园，克罗地亚 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.KornatiNP_ZH-CN8829346235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220523 | ![](https://www.bing.com/th?id=OHR.RedBellied_ZH-CN8667089924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [彩虹河里的佛罗里达红肚龟，彩虹泉州立公园，佛罗里达 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.RedBellied_ZH-CN8667089924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
