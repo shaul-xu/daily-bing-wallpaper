@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [福森市的莱西瀑布，德国拜仁州 (© Sergej Razvod/agefotostock)](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [广角镜头下的厦门龙舟池，日落的光洒在传统龙舟上，中国 (© Sen Li/Getty Image)](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220601 | ![](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马罗沃泻湖中的珊瑚礁，所罗门群岛 (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220602 | ![](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [福森市的莱西瀑布，德国拜仁州 (© Sergej Razvod/agefotostock)](https://www.bing.com/th?id=OHR.LechfallFuessen_ZH-CN3887501600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220601 | ![](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马罗沃泻湖中的珊瑚礁，所罗门群岛 (© WaterFrame/Alamy)](https://www.bing.com/th?id=OHR.MarovoLagoon_ZH-CN1029152514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220531 | ![](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220530 | ![](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日落时分的阿萨巴斯卡瀑布，加拿大 (© Robert Postma/Getty Images)](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220529 | ![](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [加勒廷国家森林里的小溪，美国蒙大拿州 (© Jared Lloyd/Getty Images)](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
