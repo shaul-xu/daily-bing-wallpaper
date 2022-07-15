@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220714 | ![](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱丽丝镇附近水域中的柠檬鲨宝宝，巴哈马比米尼岛 (© Ken Kiefer 2/Getty Images)](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220715 | ![](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220714 | ![](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱丽丝镇附近水域中的柠檬鲨宝宝，巴哈马比米尼岛 (© Ken Kiefer 2/Getty Images)](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220713 | ![](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巨人堤道上的玄武岩柱，英国北爱尔兰 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220604 | ![](https://www.bing.com/th?id=OHR.BannerPeak_ZH-CN2693006060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安塞尔·亚当斯的荒野，加利福尼亚 (© Michael DeYoung Photography/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BannerPeak_ZH-CN2693006060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220603 | ![](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [广角镜头下的厦门龙舟池，日落的光洒在传统龙舟上，中国 (© Sen Li/Getty Image)](https://www.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
