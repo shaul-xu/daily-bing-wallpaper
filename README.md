@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [北狼丘里的"波浪谷"，美国亚利桑那州 (© Dennis Frates/Alamy)](https://www.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [布满奇石的青海岛，日本北长门海岸国定公园 (© Sean Pavone Photo/Adobe Stock)](https://www.bing.com/th?id=OHR.OmijimaIsland_ZH-CN3328515301_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220716 | ![](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220717 | ![](https://www.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北狼丘里的"波浪谷"，美国亚利桑那州 (© Dennis Frates/Alamy)](https://www.bing.com/th?id=OHR.CoyoteButtes_ZH-CN3166159419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220716 | ![](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)](https://www.bing.com/th?id=OHR.AmericanGoldfinch_ZH-CN2996912015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220715 | ![](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)](https://www.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220714 | ![](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱丽丝镇附近水域中的柠檬鲨宝宝，巴哈马比米尼岛 (© Ken Kiefer 2/Getty Images)](https://www.bing.com/th?id=OHR.BabyLemons_ZH-CN4212701834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220713 | ![](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巨人堤道上的玄武岩柱，英国北爱尔兰 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BasaltGiants_ZH-CN4038085235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
