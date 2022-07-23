@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [毛地黄上的红天蛾 (© David Chapman/Alamy)](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [双杰克湖，班夫国家公园，艾伯塔省，加拿大 (© SnapRapid/Offset)](https://www.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220722 | ![](https://www.bing.com/th?id=OHR.SGIMontenegro_ZH-CN4155831603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科托尔湾的圣乔治海峡和圣母湾，黑山 (© Dmitrii Sakharov/Shutterstock)](https://www.bing.com/th?id=OHR.SGIMontenegro_ZH-CN4155831603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220723 | ![](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [毛地黄上的红天蛾 (© David Chapman/Alamy)](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220722 | ![](https://www.bing.com/th?id=OHR.SGIMontenegro_ZH-CN4155831603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科托尔湾的圣乔治海峡和圣母湾，黑山 (© Dmitrii Sakharov/Shutterstock)](https://www.bing.com/th?id=OHR.SGIMontenegro_ZH-CN4155831603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220721 | ![](https://www.bing.com/th?id=OHR.AbbeyGardens_ZH-CN4831631801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伯里圣埃德蒙兹镇的修道院公园，英国萨福克郡 (© Charles Martinez/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.AbbeyGardens_ZH-CN4831631801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220720 | ![](https://www.bing.com/th?id=OHR.MoonPhases_ZH-CN3779272016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一组月相照片 (© Delpixart/Getty Images)](https://www.bing.com/th?id=OHR.MoonPhases_ZH-CN3779272016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220719 | ![](https://www.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)](https://www.bing.com/th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
