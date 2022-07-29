@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [塔多巴老虎保护区里的老虎四姐妹，印度 (© Ashish Parmar/Alamy)](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220728 | ![](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [落基山国家公园的朗斯峰，科罗拉多州 (© Andrew R. Slaton/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220729 | ![](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塔多巴老虎保护区里的老虎四姐妹，印度 (© Ashish Parmar/Alamy)](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220728 | ![](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [落基山国家公园的朗斯峰，科罗拉多州 (© Andrew R. Slaton/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220727 | ![](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [玛甸沙勒（也被称为黑格拉）的纳巴泰墓，沙特阿拉伯 (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220726 | ![](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [萨卢姆三角洲国家公园的红树林，塞内加尔共和国 (© mariusz_prusaczyk/Getty Images)](https://www.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220725 | ![](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [兰贝里斯山口脚下的多尔巴达恩城堡，威尔士 (© Viktoria Rodriguez/Getty Images)](https://www.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
