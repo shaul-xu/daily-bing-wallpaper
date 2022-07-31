@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [漏出“天窗”的熔岩管，夏威夷火山国家公园 (© Tom Schwabel/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220730 | ![](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220731 | ![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220730 | ![](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220729 | ![](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塔多巴老虎保护区里的老虎四姐妹，印度 (© Ashish Parmar/Alamy)](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220728 | ![](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [落基山国家公园的朗斯峰，科罗拉多州 (© Andrew R. Slaton/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220727 | ![](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [玛甸沙勒（也被称为黑格拉）的纳巴泰墓，沙特阿拉伯 (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.NabateanTomb_ZH-CN5770360385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
