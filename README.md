@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [在德国的赤颈鸊鷉 (© Edo van Uchelen/Minden Pictures)](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [上海浦东森林心形洞穴鸟瞰图，中国 (© Yaorusheng/Getty Images)](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220802 | ![](https://www.bing.com/th?id=OHR.HickmanBridge_ZH-CN0976106691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圆顶礁国家公园里的希克曼桥，美国犹他州 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.HickmanBridge_ZH-CN0976106691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220803 | ![](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在德国的赤颈鸊鷉 (© Edo van Uchelen/Minden Pictures)](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220802 | ![](https://www.bing.com/th?id=OHR.HickmanBridge_ZH-CN0976106691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圆顶礁国家公园里的希克曼桥，美国犹他州 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.HickmanBridge_ZH-CN0976106691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220801 | ![](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [漏出“天窗”的熔岩管，夏威夷火山国家公园 (© Tom Schwabel/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LavaTube_ZH-CN5458469336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220731 | ![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220730 | ![](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
