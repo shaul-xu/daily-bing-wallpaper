@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [杭州西湖的古典中国园林 (© DANNY HU/Getty Images)](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [圣埃尔姆附近的潘塔留岛鸟瞰图，西班牙马略卡岛 (© Dimitri Weber/Azing航空公司)](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220806 | ![](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220807 | ![](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杭州西湖的古典中国园林 (© DANNY HU/Getty Images)](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220806 | ![](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220805 | ![](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220804 | ![](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [上海浦东森林心形洞穴鸟瞰图，中国 (© Yaorusheng/Getty Images)](https://www.bing.com/th?id=OHR.QiXiFestival2022_ZH-CN2628111266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220803 | ![](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在德国的赤颈鸊鷉 (© Edo van Uchelen/Minden Pictures)](https://www.bing.com/th?id=OHR.RedneckedGrebe_ZH-CN6036749974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
