@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220808 | ![](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣埃尔姆附近的潘塔留岛鸟瞰图，西班牙马略卡岛 (© Dimitri Weber/Azing航空公司)](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220809 | ![](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220808 | ![](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣埃尔姆附近的潘塔留岛鸟瞰图，西班牙马略卡岛 (© Dimitri Weber/Azing航空公司)](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220807 | ![](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杭州西湖的古典中国园林 (© DANNY HU/Getty Images)](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220806 | ![](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220805 | ![](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)](https://www.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
