@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images)](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220810 | ![](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220811 | ![](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images)](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220810 | ![](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220809 | ![](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220808 | ![](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣埃尔姆附近的潘塔留岛鸟瞰图，西班牙马略卡岛 (© Dimitri Weber/Azing航空公司)](https://www.bing.com/th?id=OHR.EsPantaleu_ZH-CN8612029580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220807 | ![](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杭州西湖的古典中国园林 (© DANNY HU/Getty Images)](https://www.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
