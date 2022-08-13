@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock)](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures)](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220812 | ![](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220813 | ![](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock)](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220812 | ![](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliElephants_ZH-CN2078609290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220811 | ![](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images)](https://www.bing.com/th?id=OHR.MtTsubakuro_ZH-CN0305525340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220810 | ![](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220809 | ![](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)](https://www.bing.com/th?id=OHR.CuevaManos_ZH-CN8900667928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
