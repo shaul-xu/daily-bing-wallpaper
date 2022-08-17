@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images)](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220816 | ![](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy)](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220817 | ![](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220816 | ![](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy)](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220815 | ![](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images)](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220814 | ![](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures)](https://www.bing.com/th?id=OHR.PantherChameleon_ZH-CN2554514270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220813 | ![](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock)](https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
