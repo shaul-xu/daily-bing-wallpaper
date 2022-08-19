@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images)](https://www.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock)](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220818 | ![](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images)](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220819 | ![](https://www.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images)](https://www.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220818 | ![](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images)](https://www.bing.com/th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220817 | ![](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220816 | ![](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy)](https://www.bing.com/th?id=OHR.GreatWhiteRoller_ZH-CN1541809088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220815 | ![](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images)](https://www.bing.com/th?id=OHR.ChittorgarhFort_ZH-CN2955182965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
