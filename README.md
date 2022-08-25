@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220824 | ![](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220825 | ![](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220824 | ![](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220823 | ![](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [芒通，法国 (© Flavio Foglietta/Getty Images)](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220822 | ![](https://www.bing.com/th?id=OHR.TenderMoment_ZH-CN5447705408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南佛罗里达的一只穴小鸮雏鸟和一只成年穴小鸮，美国 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.TenderMoment_ZH-CN5447705408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220821 | ![](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [加利西亚省科斯塔达莫尔特的灯塔，西班牙 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
