@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy)](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures)](https://www.bing.com/th?id=OHR.BeardedTit_ZH-CN0065279700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220826 | ![](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220827 | ![](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy)](https://www.bing.com/th?id=OHR.MSHV_ZH-CN9630204701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220826 | ![](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)](https://www.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220825 | ![](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220824 | ![](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220823 | ![](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [芒通，法国 (© Flavio Foglietta/Getty Images)](https://www.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
