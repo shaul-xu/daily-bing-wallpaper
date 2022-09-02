@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SeitanLimania_ZH-CN3831790369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy)](https://www.bing.com/th?id=OHR.SeitanLimania_ZH-CN3831790369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220901 | ![](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [维尔登的野生动物通道，荷兰 (© Frans Lemmens/Alamy)](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220902 | ![](https://www.bing.com/th?id=OHR.SeitanLimania_ZH-CN3831790369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy)](https://www.bing.com/th?id=OHR.SeitanLimania_ZH-CN3831790369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220901 | ![](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [维尔登的野生动物通道，荷兰 (© Frans Lemmens/Alamy)](https://www.bing.com/th?id=OHR.WildlifeCrossing_ZH-CN1493053695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220831 | ![](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [新爱尔兰岛上的蓝指海星，巴布亚新几内亚 (© Jurgen Freund/Minden Pictures)](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220830 | ![](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [米利亚里诺自然公园，圣罗索尔，意大利马萨西犹可利 (© Stefano Valeri/Alamy)](https://www.bing.com/th?id=OHR.Migliarino_ZH-CN0744250844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220829 | ![](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
