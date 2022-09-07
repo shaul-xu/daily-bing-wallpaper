@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [英格兰怀特岛上的尼德尔斯白垩岩石和19世纪的灯塔。 (© CBCK Christine/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [从塞维利亚的都市阳伞俯瞰城市，西班牙 (© LucVi/Shutterstock)](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220906 | ![](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220907 | ![](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [英格兰怀特岛上的尼德尔斯白垩岩石和19世纪的灯塔。 (© CBCK Christine/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220906 | ![](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220905 | ![](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北魁北克的公路，加拿大 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220904 | ![](https://www.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy)](https://www.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220903 | ![](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
