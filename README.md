@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [伯利兹堡礁保护区, 伯利兹 (© Tom Till/Alamy)](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MidAutumn2022_ZH-CN9825550508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [中秋之夜, 上海豫园 (© Zyxeos30/Getty images)](https://www.bing.com/th?id=OHR.MidAutumn2022_ZH-CN9825550508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220908 | ![](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从塞维利亚的都市阳伞俯瞰城市，西班牙 (© LucVi/Shutterstock)](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220909 | ![](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伯利兹堡礁保护区, 伯利兹 (© Tom Till/Alamy)](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220908 | ![](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从塞维利亚的都市阳伞俯瞰城市，西班牙 (© LucVi/Shutterstock)](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220907 | ![](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [英格兰怀特岛上的尼德尔斯白垩岩石和19世纪的灯塔。 (© CBCK Christine/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220906 | ![](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220905 | ![](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北魁北克的公路，加拿大 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.TaigaRoad_ZH-CN2567537158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
