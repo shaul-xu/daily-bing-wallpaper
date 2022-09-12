@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GSDNPest_ZH-CN0818304791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大沙丘国家公园和保护区，美国科罗拉多州 (© Y Paudel/Getty Images)](https://www.bing.com/th?id=OHR.GSDNPest_ZH-CN0818304791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220911 | ![](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220912 | ![](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220911 | ![](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220910 | ![](https://www.bing.com/th?id=OHR.MidAutumn2022_ZH-CN9825550508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中秋之夜, 上海豫园 (© Zyxeos30/Getty images)](https://www.bing.com/th?id=OHR.MidAutumn2022_ZH-CN9825550508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220909 | ![](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伯利兹堡礁保护区, 伯利兹 (© Tom Till/Alamy)](https://www.bing.com/th?id=OHR.BHNMBelize_ZH-CN9422261941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220908 | ![](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从塞维利亚的都市阳伞俯瞰城市，西班牙 (© LucVi/Shutterstock)](https://www.bing.com/th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
