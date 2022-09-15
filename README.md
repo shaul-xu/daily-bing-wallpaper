@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy)](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [百内国家公园中的一头美洲狮，智利巴塔哥尼亚 (© Ingo Arndt/Minden Pictures)](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220914 | ![](https://www.bing.com/th?id=OHR.MarbleCanyon_ZH-CN1066862981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部  (© trekandshoot/Alamy)](https://www.bing.com/th?id=OHR.MarbleCanyon_ZH-CN1066862981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220915 | ![](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy)](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220914 | ![](https://www.bing.com/th?id=OHR.MarbleCanyon_ZH-CN1066862981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部  (© trekandshoot/Alamy)](https://www.bing.com/th?id=OHR.MarbleCanyon_ZH-CN1066862981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220913 | ![](https://www.bing.com/th?id=OHR.GSDNPest_ZH-CN0818304791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大沙丘国家公园和保护区，美国科罗拉多州 (© Y Paudel/Getty Images)](https://www.bing.com/th?id=OHR.GSDNPest_ZH-CN0818304791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220912 | ![](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)](https://www.bing.com/th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220911 | ![](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)](https://www.bing.com/th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
