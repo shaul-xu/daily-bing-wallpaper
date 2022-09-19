@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220918 | ![](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省 (© Cavan Images/Offset)](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220919 | ![](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220918 | ![](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省 (© Cavan Images/Offset)](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220917 | ![](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布莱克浦塔和中央码头，英国兰开夏郡 (© Bailey-Cooper Photography/Alamy)](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220916 | ![](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [百内国家公园中的一头美洲狮，智利巴塔哥尼亚 (© Ingo Arndt/Minden Pictures)](https://www.bing.com/th?id=OHR.PianePuma_ZH-CN1482049046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220915 | ![](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy)](https://www.bing.com/th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
