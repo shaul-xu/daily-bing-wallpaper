@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo)](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [春角礁灯塔，缅因州南波特兰 (© Haizhan Zheng/Getty Images)](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220920 | ![](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220921 | ![](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo)](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220920 | ![](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220919 | ![](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220918 | ![](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省 (© Cavan Images/Offset)](https://www.bing.com/th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220917 | ![](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布莱克浦塔和中央码头，英国兰开夏郡 (© Bailey-Cooper Photography/Alamy)](https://www.bing.com/th?id=OHR.BlackpoolBeach_ZH-CN2646268897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
