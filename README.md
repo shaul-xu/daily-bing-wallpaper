@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿卡迪亚国家公园上空的银河系，美国缅因州 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220922 | ![](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [春角礁灯塔，缅因州南波特兰 (© Haizhan Zheng/Getty Images)](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220923 | ![](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220922 | ![](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [春角礁灯塔，缅因州南波特兰 (© Haizhan Zheng/Getty Images)](https://www.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220921 | ![](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo)](https://www.bing.com/th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220920 | ![](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220919 | ![](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
