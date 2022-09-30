@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20220929 | ![](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20220930 | ![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20220929 | ![](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220928 | ![](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220927 | ![](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄石国家公园里的上间歇泉盆地，美国怀俄明州 (© Ray Urner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220926 | ![](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [两头穿越苏西特纳河的驯鹿，美国阿拉斯加 (© Tim Plowden/Alamy)](https://www.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
