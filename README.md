@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)](https://www.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221001 | ![](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221002 | ![](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221001 | ![](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220930 | ![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220929 | ![](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20220928 | ![](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
