@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221004 | ![](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄山的日出，中国 (© zhouyousifang/Getty Images)](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221005 | ![](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221004 | ![](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄山的日出，中国 (© zhouyousifang/Getty Images)](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221003 | ![](https://www.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)](https://www.bing.com/th?id=OHR.FairyGlen_ZH-CN4521633106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221002 | ![](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)](https://www.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221001 | ![](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
