@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221007 | ![](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221008 | ![](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221007 | ![](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221006 | ![](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo)](https://www.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221005 | ![](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221004 | ![](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄山的日出，中国 (© zhouyousifang/Getty Images)](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
