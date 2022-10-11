@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221010 | ![](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221011 | ![](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221010 | ![](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221009 | ![](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221008 | ![](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221007 | ![](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)](https://www.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
