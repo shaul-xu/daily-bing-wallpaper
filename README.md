@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [迪纳利国家公园里的两只驼鹿，美国阿拉斯加州 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221011 | ![](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221012 | ![](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221011 | ![](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)](https://www.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221010 | ![](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)](https://www.bing.com/th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221009 | ![](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://www.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221008 | ![](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)](https://www.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
