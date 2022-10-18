@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221017 | ![](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221018 | ![](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221017 | ![](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221016 | ![](https://www.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221015 | ![](https://www.bing.com/th?id=OHR.NaqsheRustam_ZH-CN9695151436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock)](https://www.bing.com/th?id=OHR.NaqsheRustam_ZH-CN9695151436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221014 | ![](https://www.bing.com/th?id=OHR.RioArazas_ZH-CN9451571402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奥尔德萨和佩尔迪多山国家公园里的瀑布，西班牙比利牛斯山脉 (© David Santiago Garcia/Cavan Images)](https://www.bing.com/th?id=OHR.RioArazas_ZH-CN9451571402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
