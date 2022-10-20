@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221019 | ![](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221020 | ![](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221019 | ![](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221018 | ![](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221017 | ![](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://www.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221016 | ![](https://www.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images)](https://www.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
