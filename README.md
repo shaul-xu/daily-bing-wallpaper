@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures)](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221022 | ![](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221023 | ![](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures)](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221022 | ![](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221021 | ![](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221020 | ![](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221019 | ![](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
