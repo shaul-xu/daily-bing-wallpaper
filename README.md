@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [意大利威尼斯的叹息桥 (© Doug Pearson/Alamy)](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221025 | ![](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy)](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221026 | ![](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221025 | ![](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy)](https://www.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221024 | ![](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)](https://www.bing.com/th?id=OHR.MarienburgZell_ZH-CN4562312386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221023 | ![](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures)](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221022 | ![](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)](https://www.bing.com/th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
