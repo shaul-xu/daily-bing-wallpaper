@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221029 | ![](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [海洋天使 (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221030 | ![](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221029 | ![](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [海洋天使 (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221028 | ![](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock)](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221027 | ![](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [意大利威尼斯的叹息桥 (© Doug Pearson/Alamy)](https://www.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221026 | ![](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)](https://www.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
