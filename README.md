@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221102 | ![](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221103 | ![](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221102 | ![](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221101 | ![](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221031 | ![](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221030 | ![](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
