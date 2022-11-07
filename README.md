@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images)](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221106 | ![](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images)](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221107 | ![](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221106 | ![](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images)](https://www.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221105 | ![](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221104 | ![](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)](https://www.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221103 | ![](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
