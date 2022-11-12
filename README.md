@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿拉斯加州海恩斯附近的秃鹰群，美国 (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [伊萨尔河鸟瞰图，德国伦格里斯 (© Martin Siepmann/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221110 | ![](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221112 | ![](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿拉斯加州海恩斯附近的秃鹰群，美国 (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221110 | ![](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221109 | ![](https://www.bing.com/th?id=OHR.HedgehogNest_ZH-CN0781850458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [萨塞克斯郡的西欧刺猬，英国 (© Jules Cox/Minden Pictures)](https://www.bing.com/th?id=OHR.HedgehogNest_ZH-CN0781850458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221108 | ![](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images)](https://www.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221107 | ![](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
