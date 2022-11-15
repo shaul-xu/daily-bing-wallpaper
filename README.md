@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures)](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221114 | ![](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊 (© Massimo Ripani/eStock Photo)](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221115 | ![](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures)](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221114 | ![](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊 (© Massimo Ripani/eStock Photo)](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221113 | ![](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伊萨尔河鸟瞰图，德国伦格里斯 (© Martin Siepmann/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221112 | ![](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿拉斯加州海恩斯附近的秃鹰群，美国 (© Marion Vollborn/Minden Pictures)](https://www.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221110 | ![](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
