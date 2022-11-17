@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221116 | ![](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221117 | ![](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221116 | ![](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)](https://www.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221115 | ![](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures)](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221114 | ![](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊 (© Massimo Ripani/eStock Photo)](https://www.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221113 | ![](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伊萨尔河鸟瞰图，德国伦格里斯 (© Martin Siepmann/Offset/Shutterstock)](https://www.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
