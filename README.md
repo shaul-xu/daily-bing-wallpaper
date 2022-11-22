@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [向日葵 (© Dileep Chandran/Alamy)](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221121 | ![](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221122 | ![](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221121 | ![](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221120 | ![](https://www.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI)](https://www.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221119 | ![](https://www.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [犹他州锡安国家公园的维尔京河，美国 (© Jonathan Ross/Getty)](https://www.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221118 | ![](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)](https://www.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
