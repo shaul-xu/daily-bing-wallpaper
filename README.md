@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock)](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221125 | ![](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture)](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221126 | ![](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock)](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221125 | ![](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture)](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221124 | ![](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture)](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221123 | ![](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [向日葵 (© Dileep Chandran/Alamy)](https://www.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221122 | ![](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
