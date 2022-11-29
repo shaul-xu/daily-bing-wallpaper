@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [罗维尼老城，克罗地亚 (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221128 | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [火星（© NASA/Alamy）](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221129 | ![](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221128 | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [火星（© NASA/Alamy）](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221127 | ![](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)](https://www.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221126 | ![](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock)](https://www.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221125 | ![](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture)](https://www.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
