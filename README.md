@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221201 | ![](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [天堂湾，南极洲 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221202 | ![](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221201 | ![](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [天堂湾，南极洲 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5719164468_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221130 | ![](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗维尼老城，克罗地亚 (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221129 | ![](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221128 | ![](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [火星（© NASA/Alamy）](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
