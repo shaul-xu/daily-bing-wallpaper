@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)](https://www.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221206 | ![](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221207 | ![](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221206 | ![](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images)](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221205 | ![](https://www.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images)](https://www.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221204 | ![](https://www.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚 (© Diana Robinson Photography/Getty Images)](https://www.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221203 | ![](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
