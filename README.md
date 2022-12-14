@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大帕拉迪索国家公园，意大利 (© agustavop/Getty Images)](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images)](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221213 | ![](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221214 | ![](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大帕拉迪索国家公园，意大利 (© agustavop/Getty Images)](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221213 | ![](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221212 | ![](https://www.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一品红 (© Elizabeth Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221211 | ![](https://www.bing.com/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州 (© Christian Bäck/eStock Photo)](https://www.bing.com/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221210 | ![](https://www.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [玻利维亚的乌尤尼盐沼 (© Theo Allofs/Minden Pictures)](https://www.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
