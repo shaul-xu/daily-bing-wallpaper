@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures)](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo)](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221216 | ![](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221217 | ![](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures)](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221216 | ![](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221215 | ![](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images)](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221214 | ![](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大帕拉迪索国家公园，意大利 (© agustavop/Getty Images)](https://www.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221213 | ![](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)](https://www.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
