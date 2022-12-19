@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [栖息在北美冬青上的北美红雀，美国伊利诺伊州 (© Richard and Susan Day/Danita Delimont)](https://www.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy)](https://www.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221218 | ![](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo)](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221219 | ![](https://www.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [栖息在北美冬青上的北美红雀，美国伊利诺伊州 (© Richard and Susan Day/Danita Delimont)](https://www.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221218 | ![](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo)](https://www.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221217 | ![](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures)](https://www.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221216 | ![](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images)](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221215 | ![](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images)](https://www.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
