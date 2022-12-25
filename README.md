@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images)](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy)](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221224 | ![](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock)](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221225 | ![](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images)](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221224 | ![](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock)](https://www.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221223 | ![](https://www.bing.com/th?id=OHR.GentooGrievances_ZH-CN2875292726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南极洲的巴布亚企鹅 (© Nature Picture Library/Alamy)](https://www.bing.com/th?id=OHR.GentooGrievances_ZH-CN2875292726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221222 | ![](https://www.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安纳西，法国上瓦萨省 (© Sabine Klein/Alamy)](https://www.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221221 | ![](https://www.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images)](https://www.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
