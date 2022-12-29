@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20221228 | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马洛亚，瑞士 (© Roberto Moiola/Getty)](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20221229 | ![](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20221228 | ![](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马洛亚，瑞士 (© Roberto Moiola/Getty)](https://www.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221227 | ![](https://www.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格林达维克的蓝湖，冰岛 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221226 | ![](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy)](https://www.bing.com/th?id=OHR.BeverleyWestwood_ZH-CN3729041588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221225 | ![](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images)](https://www.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
