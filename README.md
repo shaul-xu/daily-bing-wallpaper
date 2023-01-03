@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州 (© Jay Goodrich/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [从国际空间站看到的地球 (© JSC/NASA)](https://www.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230102 | ![](https://www.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [霍亨索伦城堡，德国 (© Sahara Prince/Shutterstock)](https://www.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230103 | ![](https://www.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州 (© Jay Goodrich/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230102 | ![](https://www.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [霍亨索伦城堡，德国 (© Sahara Prince/Shutterstock)](https://www.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230101 | ![](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221231 | ![](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一起迎接2023年 (© GettyImages)](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20221230 | ![](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
