@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230108 | ![](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230109 | ![](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230108 | ![](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230107 | ![](https://www.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)](https://www.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230106 | ![](https://www.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [英格兰湖区的Black Fell (© Daniel Kay/Shutterstock)](https://www.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230105 | ![](https://www.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures)](https://www.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
