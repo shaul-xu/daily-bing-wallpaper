@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230110 | ![](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230111 | ![](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230110 | ![](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230109 | ![](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)](https://www.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230108 | ![](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230107 | ![](https://www.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)](https://www.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
