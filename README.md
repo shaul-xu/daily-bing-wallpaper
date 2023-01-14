@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [吃樱桃树枝的毛驴 (© Juniors Bildarchiv GmbH/Alamy)](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [横贯图尔库的奥拉河, 芬兰 (© Jarmo Piironen/Alamy)](https://www.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230113 | ![](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [海峡群岛国家公园的巨藻，美国加利福尼亚州 (© Brandon Cole Images/Shutterstock)](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230114 | ![](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [吃樱桃树枝的毛驴 (© Juniors Bildarchiv GmbH/Alamy)](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230113 | ![](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [海峡群岛国家公园的巨藻，美国加利福尼亚州 (© Brandon Cole Images/Shutterstock)](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230112 | ![](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230111 | ![](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)](https://www.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230110 | ![](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
