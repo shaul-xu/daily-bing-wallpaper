@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SessileOaks_ZH-CN6385464274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [穆涅略斯自然保护区，西班牙 (© Andres M. Dominguez/Minden Pictures)](https://www.bing.com/th?id=OHR.SessileOaks_ZH-CN6385464274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [白沙国家公园，美国新墨西哥州 (© Andrea Harrell/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230116 | ![](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230117 | ![](https://www.bing.com/th?id=OHR.SessileOaks_ZH-CN6385464274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [穆涅略斯自然保护区，西班牙 (© Andres M. Dominguez/Minden Pictures)](https://www.bing.com/th?id=OHR.SessileOaks_ZH-CN6385464274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230116 | ![](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230115 | ![](https://www.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [横贯图尔库的奥拉河, 芬兰 (© Jarmo Piironen/Alamy)](https://www.bing.com/th?id=OHR.Turku_ZH-CN6008877545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230114 | ![](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [吃樱桃树枝的毛驴 (© Juniors Bildarchiv GmbH/Alamy)](https://www.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230113 | ![](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [海峡群岛国家公园的巨藻，美国加利福尼亚州 (© Brandon Cole Images/Shutterstock)](https://www.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
