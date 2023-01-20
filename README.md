@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [除夕夜的中国新年灯笼 (© Toa55/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230119 | ![](https://www.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕克城, 美国犹他州 (© Kruck20/Getty Images)](https://www.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230120 | ![](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230119 | ![](https://www.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕克城, 美国犹他州 (© Kruck20/Getty Images)](https://www.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230118 | ![](https://www.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [白沙国家公园，美国新墨西哥州 (© Andrea Harrell/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230117 | ![](https://www.bing.com/th?id=OHR.SessileOaks_ZH-CN6385464274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [穆涅略斯自然保护区，西班牙 (© Andres M. Dominguez/Minden Pictures)](https://www.bing.com/th?id=OHR.SessileOaks_ZH-CN6385464274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230116 | ![](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
