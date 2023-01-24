@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [多洛米蒂山谷中的科莱圣卢恰小镇，意大利 (© mauritius images GmbH/Alamy)](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰 (© Dennis Barnes/Getty Images)](https://www.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230123 | ![](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230124 | ![](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [多洛米蒂山谷中的科莱圣卢恰小镇，意大利 (© mauritius images GmbH/Alamy)](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230123 | ![](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230122 | ![](https://www.bing.com/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [春节的桃花和红灯笼 (© David Ng+EyeEm/Getty Images)](https://www.bing.com/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230121 | ![](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [除夕夜的中国新年灯笼 (© Toa55/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230120 | ![](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)](https://www.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
