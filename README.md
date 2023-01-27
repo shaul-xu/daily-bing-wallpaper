@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [瓜纳阿卡维韦斯半岛国家公园的红树林，古巴 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BlueBahamas_ZH-CN2083290847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [从国际空间站看到的巴哈马周围的蓝绿色水域 (© NASA)](https://www.bing.com/th?id=OHR.BlueBahamas_ZH-CN2083290847_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230126 | ![](https://www.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [天门洞，湖南天门山国家森林公园，中国 (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230127 | ![](https://www.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [瓜纳阿卡维韦斯半岛国家公园的红树林，古巴 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230126 | ![](https://www.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [天门洞，湖南天门山国家森林公园，中国 (© Shane P. White/Minden Pictures)](https://www.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230125 | ![](https://www.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰 (© Dennis Barnes/Getty Images)](https://www.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230124 | ![](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [多洛米蒂山谷中的科莱圣卢恰小镇，意大利 (© mauritius images GmbH/Alamy)](https://www.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230123 | ![](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
