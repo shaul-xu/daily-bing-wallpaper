@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230201 | ![](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [皮埃尔丰城堡，皮卡第大区，法国 (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230202 | ![](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230201 | ![](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [皮埃尔丰城堡，皮卡第大区，法国 (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230131 | ![](https://www.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南非自然保护区的斑马 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230130 | ![](https://www.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡纳塔克邦的纳加尔霍雷国家公园，印度 (© Vivek BR/Shutterstock)](https://www.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230129 | ![](https://www.bing.com/th?id=OHR.BlackbirdDay_ZH-CN2291101162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃塞克斯的乌鸫，英国 (© Bill Coster/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BlackbirdDay_ZH-CN2291101162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
