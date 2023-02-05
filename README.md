@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [峡湾国家公园，新西兰南岛 (© WitR/Adobe Stock)](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230204 | ![](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230205 | ![](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230204 | ![](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230203 | ![](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230202 | ![](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230201 | ![](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [皮埃尔丰城堡，皮卡第大区，法国 (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
