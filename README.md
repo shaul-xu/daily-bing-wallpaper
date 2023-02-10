@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230209 | ![](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230210 | ![](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230209 | ![](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230208 | ![](https://www.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [艾琳多南堡，苏格兰高地 (© VisualCommunications/Getty Images)](https://www.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230207 | ![](https://www.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [拉布罗小镇，列蒂省，意大利 (© Marco Ilari/Shutterstock)](https://www.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230206 | ![](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [峡湾国家公园，新西兰南岛 (© WitR/Adobe Stock)](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
