@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)](https://www.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [日本北海道小樽雪灯之路的冰屋 (© T Photography/Shutterstock)](https://www.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230212 | ![](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230213 | ![](https://www.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)](https://www.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230212 | ![](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230211 | ![](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230210 | ![](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230209 | ![](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
