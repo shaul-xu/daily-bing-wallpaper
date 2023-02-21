@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230220 | ![](https://www.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Itaimbezinho峡谷，巴西 (© NidoHuebl/Getty Images)](https://www.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230221 | ![](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230220 | ![](https://www.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Itaimbezinho峡谷，巴西 (© NidoHuebl/Getty Images)](https://www.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230219 | ![](https://www.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://www.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230218 | ![](https://www.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)](https://www.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230217 | ![](https://www.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [栖息在红袋鼠爪枝干上的艾氏煌蜂鸟 (© GypsyPictureShow/Shutterstock)](https://www.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
