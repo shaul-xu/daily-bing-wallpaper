@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230224 | ![](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230225 | ![](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230224 | ![](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230223 | ![](https://www.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士 (© Matthew Williams Ellis/Plainpicture)](https://www.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230222 | ![](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230221 | ![](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
