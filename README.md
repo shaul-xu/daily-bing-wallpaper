@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [吕贝克的霍尔斯滕门，德国 (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230227 | ![](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北极熊在加拿大沉睡 (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230228 | ![](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230227 | ![](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北极熊在加拿大沉睡 (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230226 | ![](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)](https://www.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230225 | ![](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://www.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230224 | ![](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)](https://www.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
