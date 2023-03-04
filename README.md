@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [通往皮库山的道路，葡萄牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [袋鼠妈妈和宝宝 (© Belle Ciezak/Shutterstock)](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230303 | ![](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯皮尔德拉的虎鲸，挪威 (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230304 | ![](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [通往皮库山的道路，葡萄牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230303 | ![](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯皮尔德拉的虎鲸，挪威 (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230302 | ![](https://www.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [内格拉廷湖，格拉纳达，西班牙 (© Andres Martinez Olmedo/Getty Images)](https://www.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230301 | ![](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [吕贝克的霍尔斯滕门，德国 (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230228 | ![](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
