@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)](https://www.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [极光展示，怀特霍斯，育空地区，加拿大 (© John Hyde/plainpicture/Design Pics)](https://www.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230306 | ![](https://www.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [站在自己领域的冰岛马，冰岛 (© Rodrigo Lourezini/Shutterstock)](https://www.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230307 | ![](https://www.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)](https://www.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230306 | ![](https://www.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [站在自己领域的冰岛马，冰岛 (© Rodrigo Lourezini/Shutterstock)](https://www.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230305 | ![](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [袋鼠妈妈和宝宝 (© Belle Ciezak/Shutterstock)](https://www.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230304 | ![](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [通往皮库山的道路，葡萄牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230303 | ![](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯皮尔德拉的虎鲸，挪威 (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
