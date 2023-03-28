@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [意大利三峰山上空的银河 (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [两只海牛，佛罗里达州的水晶河，美国 (© Gregory Sweeney/Getty Images)](https://www.bing.com/th?id=OHR.NuzzleManatee_ZH-CN3263788190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230327 | ![](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [云层中的纽约市天际线 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230328 | ![](https://www.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [意大利三峰山上空的银河 (© Juan Romero/Cavan Images)](https://www.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230327 | ![](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [云层中的纽约市天际线 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230326 | ![](https://www.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国 (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230325 | ![](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)](https://www.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230324 | ![](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [盛开的野蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
