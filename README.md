@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images)](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [复活节彩蛋 (© fotomem/Getty Images)](https://www.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230407 | ![](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [欧亚河狸宝宝，芬兰 (© Danny Green/Minden Pictures)](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230408 | ![](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images)](https://www.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230407 | ![](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [欧亚河狸宝宝，芬兰 (© Danny Green/Minden Pictures)](https://www.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230406 | ![](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [月亮升起，图森，亚利桑那州，美国 (© Tim Murphy/Shutterstock)](https://www.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230405 | ![](https://www.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杭州西湖水墨意境般的风景，浙江省，中国 (© zhangshuang/Getty Images)](https://www.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230404 | ![](https://www.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
