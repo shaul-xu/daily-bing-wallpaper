@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [红海星, 地中海 (© Hans Leijnse/Minden Pictures)](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [从纳哈加尔城堡鸟瞰斋浦尔，印度 (© Sean3810/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230413 | ![](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230414 | ![](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [红海星, 地中海 (© Hans Leijnse/Minden Pictures)](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230413 | ![](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230412 | ![](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230411 | ![](https://www.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哥伦比亚河峡谷，俄勒冈州，美国 (© Chase Dekker Wild-Life Images/Getty Images)](https://www.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230410 | ![](https://www.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安博塞利国家公园的大象，肯尼亚 (© Diana Robinson/Getty Images)](https://www.bing.com/th?id=OHR.ElephantTwins_ZH-CN6743766062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
