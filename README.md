@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿德莱德国际风筝节，澳大利亚 (© Andrey Moisseyev/Alamy)](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [布列塔尼的小米努灯塔，法国 (© RooM the Agency/Alamy)](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230415 | ![](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从纳哈加尔城堡鸟瞰斋浦尔，印度 (© Sean3810/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230416 | ![](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿德莱德国际风筝节，澳大利亚 (© Andrey Moisseyev/Alamy)](https://www.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230415 | ![](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从纳哈加尔城堡鸟瞰斋浦尔，印度 (© Sean3810/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230414 | ![](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [红海星, 地中海 (© Hans Leijnse/Minden Pictures)](https://www.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230413 | ![](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)](https://www.bing.com/th?id=OHR.SnowdoniaNational_ZH-CN7415540950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230412 | ![](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)](https://www.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
