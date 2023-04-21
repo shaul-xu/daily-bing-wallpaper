@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230420 | ![](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克雷斯特德比特山上方的月食，科罗拉多州，美国 (© Mengzhonghua Photography/Getty Images)](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230421 | ![](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230420 | ![](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克雷斯特德比特山上方的月食，科罗拉多州，美国 (© Mengzhonghua Photography/Getty Images)](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230419 | ![](https://www.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [褐头凤鹛 (© Staffan Widstrand/Minden Pictures)](https://www.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230418 | ![](https://www.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马丘比丘，秘鲁 (© Dora Dalton/Getty Images)](https://www.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230417 | ![](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布列塔尼的小米努灯塔，法国 (© RooM the Agency/Alamy)](https://www.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
