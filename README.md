@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴伐利亚森林酒窖，德国 (© Andreas_Zerndl/Getty Images)](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿德利企鹅 (© David Merron Photography/Getty Images)](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230423 | ![](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日出时分薄雾笼罩下的薰衣草田，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230424 | ![](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴伐利亚森林酒窖，德国 (© Andreas_Zerndl/Getty Images)](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230423 | ![](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日出时分薄雾笼罩下的薰衣草田，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230422 | ![](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230421 | ![](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)](https://www.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230420 | ![](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克雷斯特德比特山上方的月食，科罗拉多州，美国 (© Mengzhonghua Photography/Getty Images)](https://www.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
