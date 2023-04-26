@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大雕鸮幼崽 (© Michael Morse/Getty Images)](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230425 | ![](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿德利企鹅 (© David Merron Photography/Getty Images)](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230426 | ![](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大雕鸮幼崽 (© Michael Morse/Getty Images)](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230425 | ![](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿德利企鹅 (© David Merron Photography/Getty Images)](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230424 | ![](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴伐利亚森林酒窖，德国 (© Andreas_Zerndl/Getty Images)](https://www.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230423 | ![](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日出时分薄雾笼罩下的薰衣草田，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230422 | ![](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
