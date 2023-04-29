@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230428 | ![](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230429 | ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230428 | ![](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230427 | ![](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230426 | ![](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大雕鸮幼崽 (© Michael Morse/Getty Images)](https://www.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230425 | ![](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿德利企鹅 (© David Merron Photography/Getty Images)](https://www.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
