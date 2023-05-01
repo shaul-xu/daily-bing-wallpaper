@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [横跨圣劳伦斯河下游的魁北克大桥，加拿大 (© Ronald Santerre/Getty Images)](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士 (© Florin Baumann/Getty Images)](https://www.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230430 | ![](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230501 | ![](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [横跨圣劳伦斯河下游的魁北克大桥，加拿大 (© Ronald Santerre/Getty Images)](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230430 | ![](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230429 | ![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230428 | ![](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)](https://www.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230427 | ![](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)](https://www.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
