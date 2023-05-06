@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)](https://www.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)](https://www.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230505 | ![](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥 (© Radius Images/Shutterstock)](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230506 | ![](https://www.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)](https://www.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230505 | ![](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥 (© Radius Images/Shutterstock)](https://www.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230504 | ![](https://www.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蒂卡尔的玛雅遗址，危地马拉 (© THP Creative/Getty Images)](https://www.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230503 | ![](https://www.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马赛马拉的角马，肯尼亚 (© Matt Polski/Getty Images)](https://www.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230502 | ![](https://www.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士 (© Florin Baumann/Getty Images)](https://www.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
