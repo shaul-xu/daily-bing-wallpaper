@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MorroJable_ZH-CN7382027688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [莫罗哈夫莱海滩和科罗拉达斯海滩，富埃特文图拉岛，西班牙加那利群岛 (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.MorroJable_ZH-CN7382027688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230513 | ![](https://www.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [曼海姆水塔，德国 (© tichr/Getty Images)](https://www.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230514 | ![](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230513 | ![](https://www.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [曼海姆水塔，德国 (© tichr/Getty Images)](https://www.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230512 | ![](https://www.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [紫色和蓝色的野生羽扇豆 (© silverjohn/Getty Images Plus)](https://www.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230511 | ![](https://www.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [亨宁斯韦尔体育场，挪威 (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230510 | ![](https://www.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)](https://www.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
