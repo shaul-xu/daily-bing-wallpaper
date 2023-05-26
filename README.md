@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230525 | ![](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [法罗群岛，丹麦 (© miroslav_1/Getty Images)](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230526 | ![](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://www.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230525 | ![](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [法罗群岛，丹麦 (© miroslav_1/Getty Images)](https://www.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230524 | ![](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230523 | ![](https://www.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [西部箱龟 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230522 | ![](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
