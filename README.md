@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230530 | ![](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230531 | ![](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230530 | ![](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230529 | ![](https://www.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230528 | ![](https://www.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)](https://www.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230527 | ![](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://www.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
