@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230611 | ![](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230612 | ![](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230611 | ![](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230610 | ![](https://www.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波尔图大教堂, 葡萄牙 (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230609 | ![](https://www.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230608 | ![](https://www.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [座头鲸 (© Philip Thurston/Getty Images)](https://www.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
