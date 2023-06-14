@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)](https://www.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230613 | ![](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230614 | ![](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)](https://www.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230613 | ![](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)](https://www.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230612 | ![](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230611 | ![](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)](https://www.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230610 | ![](https://www.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波尔图大教堂, 葡萄牙 (© Reinhard Schmid/Huber/eStock Photo)](https://www.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
