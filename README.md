@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [夏日盛开的荷花 (© pandemin/Getty Images)](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [中国传统节日端午节 (© timekeep/Shutterstock)](https://www.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230620 | ![](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230621 | ![](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夏日盛开的荷花 (© pandemin/Getty Images)](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230620 | ![](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230619 | ![](https://www.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)](https://www.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230618 | ![](https://www.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230617 | ![](https://www.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [在加利福尼亚州圣地亚哥举行的“为团结划桨”活动 (© Brandon Colbert Photography/Getty Images)](https://www.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
