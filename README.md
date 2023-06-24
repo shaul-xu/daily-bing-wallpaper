@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://www.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230623 | ![](https://www.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帝王蝶在野花中取食 (© bookguy/Getty Images)](https://www.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230624 | ![](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230623 | ![](https://www.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帝王蝶在野花中取食 (© bookguy/Getty Images)](https://www.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230622 | ![](https://www.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中国传统节日端午节 (© timekeep/Shutterstock)](https://www.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230621 | ![](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [夏日盛开的荷花 (© pandemin/Getty Images)](https://www.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230620 | ![](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
