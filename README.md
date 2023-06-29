@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230628 | ![](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230629 | ![](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)](https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230628 | ![](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)](https://www.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230627 | ![](https://www.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)](https://www.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230626 | ![](https://www.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)](https://www.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230625 | ![](https://www.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://www.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
