@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)](https://www.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230706 | ![](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230707 | ![](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230706 | ![](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230705 | ![](https://www.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)](https://www.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230704 | ![](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230703 | ![](https://www.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
