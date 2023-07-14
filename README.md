@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [乌翅真鲨，马尔代夫 (© Filippo Bacci/Getty Images)](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [卡斯泰尔梅扎诺，意大利 (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230713 | ![](https://www.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [张掖国家地质公园，甘肃，中国 (© TONNAJA/Getty Images)](https://www.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230714 | ![](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乌翅真鲨，马尔代夫 (© Filippo Bacci/Getty Images)](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230713 | ![](https://www.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [张掖国家地质公园，甘肃，中国 (© TONNAJA/Getty Images)](https://www.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230712 | ![](https://www.bing.com/th?id=OHR.NakupendaBeach_ZH-CN7913805608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [“我爱你”海滩自然保护区的沙洲，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy)](https://www.bing.com/th?id=OHR.NakupendaBeach_ZH-CN7913805608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230711 | ![](https://www.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Hong Kong SAR (© leungchopan/Getty Images)](https://www.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230710 | ![](https://www.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [萨默塞特郡的薰衣草田，英国 (© Doug Chinnery/Getty Images)](https://www.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
