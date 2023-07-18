@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)](https://www.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230717 | ![](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230718 | ![](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230717 | ![](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230716 | ![](https://www.bing.com/th?id=OHR.BearHoleBrook_ZH-CN6855885557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [熊洞溪，卡茨基尔山脉，纽约，美国 (© GummyBone/Getty Images)](https://www.bing.com/th?id=OHR.BearHoleBrook_ZH-CN6855885557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230715 | ![](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡斯泰尔梅扎诺，意大利 (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230714 | ![](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乌翅真鲨，马尔代夫 (© Filippo Bacci/Getty Images)](https://www.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
