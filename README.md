@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230720 | ![](https://www.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从美国宇航局猎户座飞船上看到的月球 (© NASA)](https://www.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230721 | ![](https://www.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)](https://www.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230720 | ![](https://www.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从美国宇航局猎户座飞船上看到的月球 (© NASA)](https://www.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230719 | ![](https://www.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)](https://www.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230718 | ![](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)](https://www.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230717 | ![](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)](https://www.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
