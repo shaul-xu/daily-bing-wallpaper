@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230729 | ![](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230730 | ![](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230729 | ![](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230728 | ![](https://www.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)](https://www.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230727 | ![](https://www.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)](https://www.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230726 | ![](https://www.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
