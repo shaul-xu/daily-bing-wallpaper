@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230731 | ![](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230801 | ![](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230731 | ![](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230730 | ![](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230729 | ![](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://www.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230728 | ![](https://www.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)](https://www.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
