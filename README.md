@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [镜池，长野，日本 (© Shoji Fujita/Getty Images)](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230804 | ![](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230805 | ![](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230804 | ![](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230803 | ![](https://www.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)](https://www.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230802 | ![](https://www.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230801 | ![](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
