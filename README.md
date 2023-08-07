@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [博迪岛灯塔，马头城，北卡罗来纳州，美国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230806 | ![](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [镜池，长野，日本 (© Shoji Fujita/Getty Images)](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230807 | ![](https://www.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [博迪岛灯塔，马头城，北卡罗来纳州，美国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230806 | ![](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [镜池，长野，日本 (© Shoji Fujita/Getty Images)](https://www.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230805 | ![](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://www.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230804 | ![](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://www.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230803 | ![](https://www.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)](https://www.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
