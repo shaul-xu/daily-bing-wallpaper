@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [叶片上的小壁虎 (© Darren Greenwood/Alamy)](https://www.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230812 | ![](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230813 | ![](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230812 | ![](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230811 | ![](https://www.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | ['朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)](https://www.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230810 | ![](https://www.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230809 | ![](https://www.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)](https://www.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
