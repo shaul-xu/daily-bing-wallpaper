@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [斯科加瀑布，冰岛 (© Maridav/Shutterstock)](https://www.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230821 | ![](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [翡翠湖，加拿大育空地区 (© artherng/Getty Images)](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230822 | ![](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230821 | ![](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [翡翠湖，加拿大育空地区 (© artherng/Getty Images)](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230820 | ![](https://www.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)](https://www.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230819 | ![](https://www.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)](https://www.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230818 | ![](https://www.bing.com/th?id=OHR.AvatarMountain_ZH-CN3268610045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.AvatarMountain_ZH-CN3268610045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
