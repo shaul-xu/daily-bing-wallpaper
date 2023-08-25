@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [黄石下瀑布，黄石国家公园，怀俄明州，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230824 | ![](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230825 | ![](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄石下瀑布，黄石国家公园，怀俄明州，美国 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230824 | ![](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230823 | ![](https://www.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯科加瀑布，冰岛 (© Maridav/Shutterstock)](https://www.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230822 | ![](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230821 | ![](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [翡翠湖，加拿大育空地区 (© artherng/Getty Images)](https://www.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
