@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巨人柱，铁木森林国家纪念地，亚利桑那州，美国 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230829 | ![](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [美洲野牛，大提顿国家公园，怀俄明州 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230830 | ![](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230829 | ![](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [美洲野牛，大提顿国家公园，怀俄明州 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230828 | ![](https://www.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚 (© Benny Marty/Shutterstock)](https://www.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230827 | ![](https://www.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)](https://www.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230826 | ![](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)](https://www.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
