@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)](https://www.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230907 | ![](https://www.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [沙漠中的骆驼，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230908 | ![](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230907 | ![](https://www.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [沙漠中的骆驼，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230906 | ![](https://www.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [威尼斯旧港，克里特岛，希腊 (© Gatsi/Getty Images)](https://www.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230905 | ![](https://www.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞格拉山，塞尼亚岛，挪威 (© imageBROKER/Moritz Wolf/Getty Images)](https://www.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230904 | ![](https://www.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
