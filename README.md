@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230911 | ![](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230912 | ![](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230911 | ![](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230910 | ![](https://www.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://www.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230909 | ![](https://www.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)](https://www.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230908 | ![](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)](https://www.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
