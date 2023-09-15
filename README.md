@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230914 | ![](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230915 | ![](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230914 | ![](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230913 | ![](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230912 | ![](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)](https://www.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230911 | ![](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://www.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
