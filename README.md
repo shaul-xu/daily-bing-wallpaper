@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230918 | ![](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230919 | ![](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230918 | ![](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230917 | ![](https://www.bing.com/th?id=OHR.CubanTody_ZH-CN8656368705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴 (© Bruno D'Amicis/Minden Pictures)](https://www.bing.com/th?id=OHR.CubanTody_ZH-CN8656368705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230916 | ![](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230915 | ![](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://www.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
