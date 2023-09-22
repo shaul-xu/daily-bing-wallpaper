@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [马尔萨拉盐田，意大利 (© javarman3/Getty Images)](https://www.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230921 | ![](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230922 | ![](https://www.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马尔萨拉盐田，意大利 (© javarman3/Getty Images)](https://www.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230921 | ![](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://www.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230920 | ![](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)](https://www.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230919 | ![](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://www.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230918 | ![](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)](https://www.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
