@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20230927 | ![](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20230928 | ![](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20230927 | ![](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230926 | ![](https://www.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)](https://www.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230925 | ![](https://www.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230924 | ![](https://www.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大 (© phototropic/Getty Images)](https://www.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
