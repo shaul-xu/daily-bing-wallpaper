@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231001 | ![](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231002 | ![](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231001 | ![](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230930 | ![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230929 | ![](https://www.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20230928 | ![](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)](https://www.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
