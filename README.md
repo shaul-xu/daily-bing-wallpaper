@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)](https://www.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.OctoClam_ZH-CN5427646548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巨型蛤壳中的条纹蛸，苏拉威西海，印度尼西亚 (© Alex Mustard/Minden Pictures)](https://www.bing.com/th?id=OHR.OctoClam_ZH-CN5427646548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231006 | ![](https://www.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)](https://www.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231007 | ![](https://www.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)](https://www.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231006 | ![](https://www.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)](https://www.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231005 | ![](https://www.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)](https://www.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231004 | ![](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜 (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231003 | ![](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
