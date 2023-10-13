@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images)](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: ["火环”日环食，多哈，卡特尔 (© Sorin Furcoi/Getty Images)](https://www.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231012 | ![](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕卢斯地区的老谷仓和油菜田，爱达荷州，美国 (© Terry Eggers/Getty Images)](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231013 | ![](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images)](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231012 | ![](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕卢斯地区的老谷仓和油菜田，爱达荷州，美国 (© Terry Eggers/Getty Images)](https://www.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231011 | ![](https://www.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国 (© Ben Herndon/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231010 | ![](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [索普里斯山，科罗拉多州，美国 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231009 | ![](https://www.bing.com/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [弗里蒙特岩画，恐龙国家纪念碑，詹森，犹他州，美国 (© Dan Leeth/Alamy)](https://www.bing.com/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
