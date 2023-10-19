@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士 (© Alan Novelli/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231018 | ![](https://www.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231019 | ![](https://www.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士 (© Alan Novelli/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231018 | ![](https://www.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231017 | ![](https://www.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕拉塔塔,阿雅克肖,科西嘉岛,法国 (© Jon Ingall/Alamy)](https://www.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231016 | ![](https://www.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [金色落叶松和普鲁西克峰，魔力地带，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231015 | ![](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [躲在树皮中欧洲刺猬，苏塞克斯，英国 (© Jules Cox/Minden Pictures)](https://www.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
