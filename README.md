@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231023 | ![](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国 (© Alex Potemkin/Getty Images)](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231024 | ![](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231023 | ![](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国 (© Alex Potemkin/Getty Images)](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231022 | ![](https://www.bing.com/th?id=OHR.AstoriaBridge_ZH-CN5052905610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哥伦比亚河上的阿斯托里亚-梅格勒大桥，阿斯托里亚区，俄勒冈州，美国 (© Dan Mihai/Getty Images)](https://www.bing.com/th?id=OHR.AstoriaBridge_ZH-CN5052905610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231021 | ![](https://www.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波斯古城波斯波利斯的浮雕，伊朗 (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231020 | ![](https://www.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
