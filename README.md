@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [美泉宫公园的秋叶，维也纳，奥地利 (© rusm/Getty Images)](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [斯利加坎老桥，苏格兰斯凯岛 (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231025 | ![](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231026 | ![](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [美泉宫公园的秋叶，维也纳，奥地利 (© rusm/Getty Images)](https://www.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231025 | ![](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231024 | ![](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231023 | ![](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国 (© Alex Potemkin/Getty Images)](https://www.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231022 | ![](https://www.bing.com/th?id=OHR.AstoriaBridge_ZH-CN5052905610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哥伦比亚河上的阿斯托里亚-梅格勒大桥，阿斯托里亚区，俄勒冈州，美国 (© Dan Mihai/Getty Images)](https://www.bing.com/th?id=OHR.AstoriaBridge_ZH-CN5052905610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
