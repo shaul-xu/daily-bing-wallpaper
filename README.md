@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231105 | ![](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231106 | ![](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231105 | ![](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231104 | ![](https://www.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)](https://www.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231103 | ![](https://www.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231102 | ![](https://www.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
