@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231107 | ![](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231108 | ![](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231107 | ![](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231106 | ![](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)](https://www.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231105 | ![](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)](https://www.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231104 | ![](https://www.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)](https://www.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
