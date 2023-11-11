@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231110 | ![](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231111 | ![](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231110 | ![](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231109 | ![](https://www.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)](https://www.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231108 | ![](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://www.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231107 | ![](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)](https://www.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
