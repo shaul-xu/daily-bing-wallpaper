@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)](https://www.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231113 | ![](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231114 | ![](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231113 | ![](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)](https://www.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231112 | ![](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)](https://www.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231111 | ![](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)](https://www.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231110 | ![](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
