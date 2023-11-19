@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231118 | ![](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231119 | ![](https://www.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)](https://www.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231118 | ![](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)](https://www.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231117 | ![](https://www.bing.com/th?id=OHR.BadRiver_ZH-CN0416550169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)](https://www.bing.com/th?id=OHR.BadRiver_ZH-CN0416550169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231116 | ![](https://www.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雅典和卫城，希腊 (© Mlenny/Getty Images)](https://www.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231115 | ![](https://www.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)](https://www.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
