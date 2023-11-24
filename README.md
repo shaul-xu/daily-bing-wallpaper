@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [托莱多，西班牙 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231123 | ![](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231124 | ![](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231123 | ![](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)](https://www.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231122 | ![](https://www.bing.com/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231121 | ![](https://www.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)](https://www.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231120 | ![](https://www.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
