@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231127 | ![](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231128 | ![](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231127 | ![](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231126 | ![](https://www.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)](https://www.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231125 | ![](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [托莱多，西班牙 (© Carlos Fernandez/Getty Images)](https://www.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231124 | ![](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)](https://www.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
