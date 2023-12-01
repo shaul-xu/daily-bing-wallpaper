@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231130 | ![](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231201 | ![](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231130 | ![](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231129 | ![](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)](https://www.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231128 | ![](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231127 | ![](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)](https://www.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
