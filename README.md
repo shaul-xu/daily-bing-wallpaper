@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231204 | ![](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚 (© Scott Davis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231205 | ![](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231204 | ![](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚 (© Scott Davis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231203 | ![](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231202 | ![](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)](https://www.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231201 | ![](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
