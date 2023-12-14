@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231213 | ![](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威 (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231214 | ![](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231213 | ![](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威 (© Roberto Moiola/Sysaworld/Getty Images)](https://www.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231212 | ![](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一品红 (© Yarygin/Getty Images)](https://www.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231211 | ![](https://www.bing.com/th?id=OHR.MountainDayChina_ZH-CN6894169616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)](https://www.bing.com/th?id=OHR.MountainDayChina_ZH-CN6894169616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231210 | ![](https://www.bing.com/th?id=OHR.LlanberisSnowdoniaSunset_ZH-CN6682238671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [林帕达恩湖，斯诺登尼亚国家公园， 威尔士 (© Joe Daniel Price/Getty Images)](https://www.bing.com/th?id=OHR.LlanberisSnowdoniaSunset_ZH-CN6682238671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
