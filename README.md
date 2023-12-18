@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231217 | ![](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231218 | ![](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231217 | ![](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231216 | ![](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo)](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231215 | ![](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)](https://www.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231214 | ![](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)](https://www.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
