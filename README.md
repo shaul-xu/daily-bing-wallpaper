@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)](https://www.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)](https://www.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231220 | ![](https://www.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利 (© Ingus Kruklitis/Getty Images)](https://www.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231221 | ![](https://www.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)](https://www.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231220 | ![](https://www.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利 (© Ingus Kruklitis/Getty Images)](https://www.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231219 | ![](https://www.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231218 | ![](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231217 | ![](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)](https://www.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
