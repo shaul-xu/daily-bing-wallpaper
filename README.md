@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231226 | ![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [冬季日出，戴德姆，科尔切斯特，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231227 | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231226 | ![](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [冬季日出，戴德姆，科尔切斯特，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231225 | ![](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)](https://www.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231224 | ![](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [市政厅广场，塔尔图，爱沙尼亚 (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231223 | ![](https://www.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)](https://www.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
