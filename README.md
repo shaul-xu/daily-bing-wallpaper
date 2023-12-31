@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images)](https://www.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20231230 | ![](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images)](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20231231 | ![](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)](https://www.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20231230 | ![](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images)](https://www.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231229 | ![](https://www.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)](https://www.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231228 | ![](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20231227 | ![](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
