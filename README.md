@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock)](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240107 | ![](https://www.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [魔鬼大理石保护区，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240108 | ![](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240107 | ![](https://www.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [魔鬼大理石保护区，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://www.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240106 | ![](https://www.bing.com/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)](https://www.bing.com/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240105 | ![](https://www.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴伐利亚阿尔卑斯山脉，德国 (© JFL Photography/Adobe Stock)](https://www.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240104 | ![](https://www.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
