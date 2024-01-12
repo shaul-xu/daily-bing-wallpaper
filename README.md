@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240111 | ![](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雪中的欧亚猞猁 (© Jan Stria/Shutterstock)](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240112 | ![](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)](https://www.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240111 | ![](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [雪中的欧亚猞猁 (© Jan Stria/Shutterstock)](https://www.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240110 | ![](https://www.bing.com/th?id=OHR.MilopotamosStairs_ZH-CN8013521384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊 (© Orestis Zoumpos/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.MilopotamosStairs_ZH-CN8013521384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240109 | ![](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock)](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240108 | ![](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)](https://www.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
