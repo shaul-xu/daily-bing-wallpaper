@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.ParisBridge_ZH-CN0173421630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)](https://www.bing.com/th?id=OHR.ParisBridge_ZH-CN0173421630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240116 | ![](https://www.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)](https://www.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240117 | ![](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240116 | ![](https://www.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)](https://www.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240115 | ![](https://www.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)](https://www.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240114 | ![](https://www.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240113 | ![](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)](https://www.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
