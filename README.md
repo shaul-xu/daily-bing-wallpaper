@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)](https://www.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240123 | ![](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240124 | ![](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240123 | ![](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240122 | ![](https://www.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240121 | ![](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240120 | ![](https://www.bing.com/th?id=OHR.MacaroniPenguins_ZH-CN0600867997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.MacaroniPenguins_ZH-CN0600867997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
