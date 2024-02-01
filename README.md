@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240131 | ![](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240201 | ![](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240131 | ![](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240130 | ![](https://www.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240129 | ![](https://www.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [戈林格瀑布，泰嫩高，萨尔茨堡，奥地利 (© Frank Fischbach/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240128 | ![](https://www.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [昆士兰州内陆海峡地区，澳大利亚 (© Southern Lightscapes-Australia/Getty Images)](https://www.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
