@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)](https://www.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)](https://www.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240202 | ![](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240203 | ![](https://www.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)](https://www.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240202 | ![](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240201 | ![](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240131 | ![](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240130 | ![](https://www.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
