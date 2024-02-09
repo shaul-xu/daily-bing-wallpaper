@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [中国舞狮，大年初一 (© SENEZ/Getty Images)](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240208 | ![](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240209 | ![](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240208 | ![](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240207 | ![](https://www.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)](https://www.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240206 | ![](https://www.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240205 | ![](https://www.bing.com/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
