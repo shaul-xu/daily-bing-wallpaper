@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240211 | ![](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240212 | ![](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240211 | ![](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240210 | ![](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中国舞狮，大年初一 (© SENEZ/Getty Images)](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240209 | ![](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240208 | ![](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
