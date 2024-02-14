@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [河马妈妈和小河马，南卢安瓜国家公园，赞比亚 (© Nature Picture Library/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240213 | ![](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240214 | ![](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240213 | ![](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)](https://www.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240212 | ![](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240211 | ![](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240210 | ![](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [中国舞狮，大年初一 (© SENEZ/Getty Images)](https://www.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
