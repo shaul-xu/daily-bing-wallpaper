@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240217 | ![](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240218 | ![](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240217 | ![](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240216 | ![](https://www.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)](https://www.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240215 | ![](https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [河马妈妈和小河马，南卢安瓜国家公园，赞比亚 (© Nature Picture Library/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240214 | ![](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
