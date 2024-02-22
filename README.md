@@ -1,9 +1,10 @@
 ## Bing Wallpaper
-  ![](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+  ![](https://www.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)Today: [Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)](https://www.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
   | Date | Wallpaper | Copyright |
   | ---- | ----- | ------ |
-  | 20240221 | ![](https://www.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)](https://www.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+  | 20240222 | ![](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)](https://www.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
+| 20240221 | ![](https://www.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)](https://www.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240220 | ![](https://www.bing.com/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)](https://www.bing.com/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240219 | ![](https://www.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
 | 20240218 | ![](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) | [抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)](https://www.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) |
