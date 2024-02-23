@@ -17,19 +17,24 @@ type Response = {
   }[]
 }
 
-const genReadmeContent = (imgUrl: string, copyright: string, count = 10) => {
+const genReadmeContent = (imgUrl: string, copyright: string, count = 9) => {
   const list = glob
     .sync('archives/*/meta.json', { absolute: true })
     .reverse()
-    .slice(1)
+    .slice(1, count)
   const tableData = list.map<Response['images'][number]>((item) => {
     const raw = fs.readFileSync(item).toString()
     return JSON.parse(raw)
   })
   const tableContent = tableData.reduce((acc, cur) => {
+    const date = [
+      cur.enddate.slice(0, 4),
+      cur.enddate.slice(4, 6),
+      cur.enddate.slice(6),
+    ].join('/')
     return (
       acc +
-      `| ${cur.enddate} | ![](${cur.url}) | [${cur.copyright}](${cur.url}) |` +
+      `| ${date} | ![](${cur.url}) | [${cur.copyright}](${cur.url}) |` +
       '\n'
     )
   }, '')
